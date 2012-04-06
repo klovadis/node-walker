@@ -2,13 +2,13 @@ This module allows you to specify a directory and then walk over each file in th
 
 You could use this for example to require all modules in a given folder.
 
-## Installation
+### Installation
 
 You can download the repository or simply install this module through npm:
 
     npm install node-walker
 
-## Usage
+### Usage
 
 Include the module through `require`. 
 
@@ -26,7 +26,7 @@ Whereas `errorObject` is `null` whenever no error occurred and `fileName` will b
 
 Note that `fileName` will hold the absolute file names, and again, it will only hold names of real files.
 
-## Example
+### Example
 
 You may also run `example.js` through node.
 
@@ -74,7 +74,7 @@ If you prefer relative file names, you can do something like this:
     fileName = fileName.substr(root.length +1);
 ```
 
-## License
+### License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
