@@ -1,3 +1,5 @@
+## node-walker
+
 This module allows you to specify a directory and then walk over each file in that directory and its subdirectories. You may specify a callback function which is called for each file.
 
 You could use this for example to require all modules in a given folder.
