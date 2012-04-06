@@ -1,0 +1,16 @@
+{
+  "author": "Geerten van Meel <klovadis@gmail.com>",
+  "name": "node-walker",
+  "description": "Walks over all files in a folder and its subfolders.",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "main": "index.js"
+}
