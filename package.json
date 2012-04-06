@@ -4,7 +4,8 @@
   "description": "Walks over all files in a folder and its subfolders.",
   "version": "0.1.0",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git@github.com:klovadis/node-walker.git"
   },
   "dependencies": {},
   "devDependencies": {},
@@ -12,5 +13,6 @@
   "engines": {
     "node": ">=0.6.0"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "homepage": "http://blog.gvm-it.eu/"
 }
